@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2024/06/30/001-hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>人生三层思维:探索宇宙的合一法则</title>
     <url>/2024/06/30/002-%E4%BA%BA%E7%94%9F%E4%B8%89%E5%B1%82%E6%80%9D%E7%BB%B4:%E6%8E%A2%E7%B4%A2%E5%AE%87%E5%AE%99%E7%9A%84%E5%90%88%E4%B8%80%E6%B3%95%E5%88%99/</url>
     <content><![CDATA[<p><strong>一、善恶好坏都是一体的，宇宙没有分别之心</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;老子说“天地不仁，以万物为刍狗，圣人不仁，以万物为刍狗”。<br>天地有的并非“不仁心”而是“大仁心”，因为至仁无亲，大仁不仁。<br>只是人类太自恋、太自以为是，一定要把善恶因果这套人类运行的法则强加到天道之上。但是宇宙不在乎，宇宙对任何人事物都没有分别之心。既然没有因果善恶，既然宇宙不在乎因果善恶，那我还要做一个好人吗？当然，你当然得做一个好人，宇宙没有情感但有规律。它因循的是频率和共振的规律。宇宙不在乎你的爱恨，但它能感受到能量的强弱，它所接收到的是一个绝对值。举个例子吧，你在心里想我不要爱这个人了，但宇宙听不懂不要，它只能感受到你在这个人身投入了很强烈的情感，你的能量绝对值很大，于是宇宙就会把你往他身上推，让你的生命历程更加靠近这个人。所以很多时候你会发现越想放下一个人就越放不下，你越抗拒就越受力。这就是为什么我相信因果善恶，但我依然选择要做一个好人。因为我知道只有自己心生善念，我才能够跟真善美的东西共振，我才会吸引那些真善美的东西流入我的生命里。</p>
@@ -54,6 +72,27 @@
       </tags>
   </entry>
   <entry>
+    <title>尧戒</title>
+    <url>/2024/06/30/006-%E5%B0%A7%E6%88%92/</url>
+    <content><![CDATA[<p>战战栗栗，日谨一日。日莫踬于山，而踬于垤。</p>
+]]></content>
+      <categories>
+        <category>诗歌</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>击壤歌</title>
+    <url>/2024/06/30/005-%E5%87%BB%E5%A3%A4%E6%AD%8C/</url>
+    <content><![CDATA[<p>吾日出而作，日入而归，凿井而饮，耕田而食，帝力于我何有哉！</p>
+]]></content>
+      <categories>
+        <category>诗歌</category>
+      </categories>
+      <tags>
+        <tag>诗歌</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>登科后</title>
     <url>/2024/06/30/007-%E7%99%BB%E7%A7%91%E5%90%8E/</url>
     <content><![CDATA[<p>昔日龌龊不足夸，今朝放荡思无涯。<br>春风得意马蹄疾，一日看尽长安花。</p>
@@ -67,6 +106,49 @@
     <url>/2024/06/30/008-%E5%81%87%E5%A6%82%E7%94%9F%E6%B4%BB%E6%AC%BA%E9%AA%97%E4%BA%86%E4%BD%A0/</url>
     <content><![CDATA[<p>假如生活欺骗了你，<br>不要悲伤，不要心急！<br>忧郁的日子里需要镇定；<br>相信吧，快乐的日子即将来临！<br>心永远向往着未来；<br>现在却常是忧郁；<br>一切都是瞬息，一切都将过去；<br>而那过去了的，会成为亲切的怀念。</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>导致软件复杂度的原因分析</title>
+    <url>/2024/06/30/010-%E5%AF%BC%E8%87%B4%E8%BD%AF%E4%BB%B6%E5%A4%8D%E6%9D%82%E5%BA%A6%E7%9A%84%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90/</url>
+    <content><![CDATA[<h3 id="导致软件复杂度的原因"><a href="#导致软件复杂度的原因" class="headerlink" title="导致软件复杂度的原因"></a>导致软件复杂度的原因</h3><p>宏观层面：软件复杂伴随着需求迭代日积月累的必然产物</p>
+<ul>
+<li>对代码腐化的退让与一直退让</li>
+<li>缺乏完善的代码质量保证机制。如严格的CodeReview、功能评审等等</li>
+<li>缺乏知识传递的机制。如无有效的设计文档等作为知识的传递</li>
+<li>需求的复杂性导致系统的复杂度不断叠加</li>
+</ul>
+<p>微观层面：</p>
+<ul>
+<li>依赖（依赖会使得修改牵一发而动全身）</li>
+<li>隐晦（隐晦让系统难以理解和维护）</li>
+</ul>
+<p>表现形式：</p>
+<ul>
+<li>修改扩散（连锁反应）</li>
+<li>认知负担（模块隐晦、难以理解）</li>
+<li>不可知（不清楚改动点影响）</li>
+</ul>
+<p>如何避免负责度：</p>
+<ol>
+<li>开发前，梳理沉淀需求分析、架构设计作为知识传递的载体</li>
+<li>开发中，强化系统架构理解，战略优先于战术。系统分层架构清晰，接口高内聚低耦合，同时保持良好的代码注释</li>
+<li>维护阶段，代码重构，针对前面的设计缺陷已新的思维和架构重构</li>
+</ol>
+<ul>
+<li>战略优先于战术</li>
+<li>高内聚低耦合</li>
+<li>简化接口设计（把简单留给别人，把复杂留给自己）</li>
+<li>影藏实现细节</li>
+<li>通用接口设计</li>
+<li>分层架构</li>
+</ul>
+]]></content>
+      <categories>
+        <category>计算机</category>
+      </categories>
+      <tags>
+        <tag>软件复杂度</tag>
+      </tags>
   </entry>
   <entry>
     <title>Mac Idea常用快捷键</title>
@@ -657,84 +739,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2024/06/30/001-hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>导致软件复杂度的原因分析</title>
-    <url>/2024/06/30/010-%E5%AF%BC%E8%87%B4%E8%BD%AF%E4%BB%B6%E5%A4%8D%E6%9D%82%E5%BA%A6%E7%9A%84%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90/</url>
-    <content><![CDATA[<h3 id="导致软件复杂度的原因"><a href="#导致软件复杂度的原因" class="headerlink" title="导致软件复杂度的原因"></a>导致软件复杂度的原因</h3><p>宏观层面：软件复杂伴随着需求迭代日积月累的必然产物</p>
-<ul>
-<li>对代码腐化的退让与一直退让</li>
-<li>缺乏完善的代码质量保证机制。如严格的CodeReview、功能评审等等</li>
-<li>缺乏知识传递的机制。如无有效的设计文档等作为知识的传递</li>
-<li>需求的复杂性导致系统的复杂度不断叠加</li>
-</ul>
-<p>微观层面：</p>
-<ul>
-<li>依赖（依赖会使得修改牵一发而动全身）</li>
-<li>隐晦（隐晦让系统难以理解和维护）</li>
-</ul>
-<p>表现形式：</p>
-<ul>
-<li>修改扩散（连锁反应）</li>
-<li>认知负担（模块隐晦、难以理解）</li>
-<li>不可知（不清楚改动点影响）</li>
-</ul>
-<p>如何避免负责度：</p>
-<ol>
-<li>开发前，梳理沉淀需求分析、架构设计作为知识传递的载体</li>
-<li>开发中，强化系统架构理解，战略优先于战术。系统分层架构清晰，接口高内聚低耦合，同时保持良好的代码注释</li>
-<li>维护阶段，代码重构，针对前面的设计缺陷已新的思维和架构重构</li>
-</ol>
-<ul>
-<li>战略优先于战术</li>
-<li>高内聚低耦合</li>
-<li>简化接口设计（把简单留给别人，把复杂留给自己）</li>
-<li>影藏实现细节</li>
-<li>通用接口设计</li>
-<li>分层架构</li>
-</ul>
-]]></content>
-      <categories>
-        <category>计算机</category>
-      </categories>
-      <tags>
-        <tag>软件复杂度</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>常用搜索资源网站</title>
-    <url>/2024/06/30/011-%E5%B8%B8%E7%94%A8%E6%90%9C%E7%B4%A2%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<h2 id="1、熊猫搜书"><a href="#1、熊猫搜书" class="headerlink" title="1、熊猫搜书"></a>1、熊猫搜书</h2><p><a href="https://xmsoushu.com/">https://xmsoushu.com</a></p>
-<p>一个资源丰富的电子书搜索网站，提供了接近上百个电子书搜索网站，想找的小说、漫画、传记、历史、期刊、杂志、文献等类型的书籍都能免费下载。</p>
-<h2 id="2、资源帝"><a href="#2、资源帝" class="headerlink" title="2、资源帝"></a>2、资源帝</h2><p><a href="http://www.ziyuandi.cn/">http://www.ziyuandi.cn/</a></p>
-<p>一个分类超级详细的导航网站，页面设计非常炫酷，打开就能看到分类号的书籍、购物、资源、有趣、壁纸、搜索、软件、合集等导航栏。</p>
-<h2 id="3、办公资源网"><a href="#3、办公资源网" class="headerlink" title="3、办公资源网"></a>3、办公资源网</h2><p><a href="https://www.bangongziyuan.com/">https://www.bangongziyuan.com/</a></p>
-<p>一个资源超丰富的office办公模板网站，日常办公用到的PPT模板、Word模板、Excel模板、以及PPT图表、音频素材等都能直接按照分类下载。</p>
-<h2 id="4、资源狗"><a href="#4、资源狗" class="headerlink" title="4、资源狗"></a>4、资源狗</h2><p><a href="http://www.xuesousou.com/">http://www.xuesousou.com</a></p>
-<p>一个非常强大的资源搜索导航网站，涵盖了各种学习资料、办公素材、电影、动漫等资源，并且还提供了很多当下热门的搜索标签，基本上所有的标签都能在页面找到。你也可以直接输入关键词查找想要的资源内容。</p>
-<h2 id="5、anyknew"><a href="#5、anyknew" class="headerlink" title="5、anyknew"></a>5、anyknew</h2><p><a href="https://www.anyknew.com/#/">https://www.anyknew.com/#/</a></p>
-<p>一个聚合类的新闻资讯网站，提供了各大平台的资讯消息，包括微博、知乎、微信、财经、科技、视频等相关的视频平台都能在一个页面看到，想看那个直接点击对应的导航平台就可以跳转到内容。</p>
-<h2 id="6、超能搜"><a href="#6、超能搜" class="headerlink" title="6、超能搜"></a>6、超能搜</h2><p><a href="https://www.chaonengsou.com/">https://www.chaonengsou.com</a></p>
-<p>一个非常强大的导航搜索网站，涵盖几十种个资源搜索工具，包括各种学习教材、电子书、音乐、影视等资源都能用找到对应的搜索工具。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>马斯洛需求模型</title>
     <url>/2024/07/01/012-%E9%A9%AC%E6%96%AF%E6%B4%9B%E9%9C%80%E6%B1%82%E6%A8%A1%E5%9E%8B/</url>
     <content><![CDATA[<p>1.人的动机是由需求决定</p>
@@ -758,7 +762,44 @@ e.体验-渴望非凡与超越
       </tags>
   </entry>
   <entry>
-    <title>the wind in the willows-the river bank</title>
+    <title>常用搜索资源网站</title>
+    <url>/2024/06/30/011-%E5%B8%B8%E7%94%A8%E6%90%9C%E7%B4%A2%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<h2 id="1、熊猫搜书"><a href="#1、熊猫搜书" class="headerlink" title="1、熊猫搜书"></a>1、熊猫搜书</h2><p><a href="https://xmsoushu.com/">https://xmsoushu.com</a></p>
+<p>一个资源丰富的电子书搜索网站，提供了接近上百个电子书搜索网站，想找的小说、漫画、传记、历史、期刊、杂志、文献等类型的书籍都能免费下载。</p>
+<h2 id="2、资源帝"><a href="#2、资源帝" class="headerlink" title="2、资源帝"></a>2、资源帝</h2><p><a href="http://www.ziyuandi.cn/">http://www.ziyuandi.cn/</a></p>
+<p>一个分类超级详细的导航网站，页面设计非常炫酷，打开就能看到分类号的书籍、购物、资源、有趣、壁纸、搜索、软件、合集等导航栏。</p>
+<h2 id="3、办公资源网"><a href="#3、办公资源网" class="headerlink" title="3、办公资源网"></a>3、办公资源网</h2><p><a href="https://www.bangongziyuan.com/">https://www.bangongziyuan.com/</a></p>
+<p>一个资源超丰富的office办公模板网站，日常办公用到的PPT模板、Word模板、Excel模板、以及PPT图表、音频素材等都能直接按照分类下载。</p>
+<h2 id="4、资源狗"><a href="#4、资源狗" class="headerlink" title="4、资源狗"></a>4、资源狗</h2><p><a href="http://www.xuesousou.com/">http://www.xuesousou.com</a></p>
+<p>一个非常强大的资源搜索导航网站，涵盖了各种学习资料、办公素材、电影、动漫等资源，并且还提供了很多当下热门的搜索标签，基本上所有的标签都能在页面找到。你也可以直接输入关键词查找想要的资源内容。</p>
+<h2 id="5、anyknew"><a href="#5、anyknew" class="headerlink" title="5、anyknew"></a>5、anyknew</h2><p><a href="https://www.anyknew.com/#/">https://www.anyknew.com/#/</a></p>
+<p>一个聚合类的新闻资讯网站，提供了各大平台的资讯消息，包括微博、知乎、微信、财经、科技、视频等相关的视频平台都能在一个页面看到，想看那个直接点击对应的导航平台就可以跳转到内容。</p>
+<h2 id="6、超能搜"><a href="#6、超能搜" class="headerlink" title="6、超能搜"></a>6、超能搜</h2><p><a href="https://www.chaonengsou.com/">https://www.chaonengsou.com</a></p>
+<p>一个非常强大的导航搜索网站，涵盖几十种个资源搜索工具，包括各种学习教材、电子书、音乐、影视等资源都能用找到对应的搜索工具。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>“沉思录”读书笔记</title>
+    <url>/2024/07/05/013-%E2%80%9C%E6%B2%89%E6%80%9D%E5%BD%95%E2%80%9D%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;“沉思录”是当下人们极为关注的一部作品。一部两千多年前的小书，何以让今天这么多人如此看重，首先这部书的作者是古罗马唯一一位哲学家皇帝马克·奥勒留。这本自己与自己的十二卷对话，内容大部分是他在鞍马劳顿中所写，是斯多葛派哲学的一个里程碑。沉思录来自于作者对身羁皇宫自身和所处混乱世界的感受，追求一种摆脱了激情和欲望冷静而达观的生活。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;马可奥·勒留在书中讲述了灵魂与死亡的关系，解析了个人的德行、个人的解脱以及个人对社会的责任。要求常常自省以达到内心的平静，要摒弃一切无用和琐屑的思想，正直的思考。不仅要思考善，要思考光明磊落的事情，还要付诸行动。马可奥勒留把一切对他发生的事情都不看做是恶，认为痛苦和不安仅仅是来自内心的意见，并且是可以由心灵加以消除的。他对人生进行深刻的哲学思考，热诚的从其他人身上学习他们最优秀的品质，果敢、谦逊、仁爱。他希望人们热爱劳作，热爱生命的本质和生活的艺术，尊重公共利益并为之努力。沉思录是一些从灵魂深处流淌出来的文字，朴实确直抵人心。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;马克·奥勒留，公元121~180年古罗马帝国皇帝及著名的帝王哲学家，在希腊文学、拉丁文学、修辞、哲学、法律、绘画方面受过很好的教育，晚期斯多葛学派代表人物之一。奥勒留也许是西方历史上唯一的一位哲学家皇帝，自青年时代起，即三度出任执行官，并在四十岁成为拥有全权的皇帝，但是他坚持同养兄维勒斯一道继承皇帝之位，形成罗马帝国历史上第一次拥有两位同等权利的皇帝公执朝政。他颁布大量法令，做出诸多司法决定，并从民法当做删除不合理的条款。作为统帅，他为平反兵患动乱而风尘仆仆征战四方，并最终死于军中。利用辛劳当中的片暇，他不断写下与自己心灵的对话，从而铸就了永玄后世的沉思录。他的沉思录成为了西方历史上伟大的感人名著。</p>
+<p><strong>沉思录语录：</strong></p>
+<ol>
+<li>我学到了内心自我掌控的能力，并不会被心外之物所影响和左右。不论遇到什么样的环境，包括卧病不起在内，都能够一如既往的保持内心的愉悦状态。在道德修养上，使内心愉悦和庄严尊贵达到完美的结合状态。</li>
+<li>人们相互蔑视，又相互奉承；人们各自希望自己高于别人，又各自匍匐在别人前面。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>读书笔记</category>
+        <category>沉思录</category>
+      </categories>
+      <tags>
+        <tag>哲学，人生哲理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>the wind in the willows-the river bank-01</title>
     <url>/2024/07/01/english/the%20wind%20in%20the%20willows-chapter01-001/</url>
     <content><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;The Mole had been working very hard all the morning,spring-cleaning his little home.First with brooms,then with dusters; then on ladders and steps and chairs,with a brush and a pair of whitewash;till he had dust in his throat and eyes,and splashes of whitewash all over his black fur,and an aching back and weary arms.Spring was moving in the air above and in the earth below and around him,penetrating even his dark and lowly little house with its spirit of divine discontent and longing.It was small wonder,then,than he suddenly flung down his brush on the floor,said ‘Bother!’ and ‘O blow’ and also ‘Hang spring-cleaning！’ and bolted out of the house without even waiting to put on his coat.Something up above was calling him imperiously,and he made for the steep little tunnel which answered in his case to the gravelled  carriage-drive owned by animals whose residences are nearer to the sun and air.So he scraped and scratched and scrabbled and scrooged and then he scrooged again and scrabbled and scratched and scraped,working busily with his little paws and muttering to himself,’Up we go! Up we go!’ till at last,pop! his snout came out into sunlight,and he found himself rolling in the warm grass of a great meadow.</p>
 <p><strong>陌生词汇</strong>：</p>
@@ -798,7 +839,7 @@ e.体验-渴望非凡与超越
       </tags>
   </entry>
   <entry>
-    <title>the wind in the willows-the river bank</title>
+    <title>the wind in the willows-the river bank-02</title>
     <url>/2024/07/05/english/the%20wind%20in%20the%20willows-chapter01-002/</url>
     <content><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;’This is fine!’ he said to himself. ‘This is better than whitewashing!’ The sunshine struck hot on his fur,soft breezes caressed his heated brow, and after the seclusion of the cellarage he had lived in so long the carol of happly birds fell on his dulled hearing almost like a shout. Jumping off all his four legs at once,in the joy of living and delight of spring without  its cleaning,he pursued his way across the meadow till he reached  the hedge on the further side.</p>
 <blockquote>
@@ -827,26 +868,5 @@ e.体验-渴望非凡与超越
       <tags>
         <tag>英语，柳林风声</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>击壤歌</title>
-    <url>/2024/06/30/005-%E5%87%BB%E5%A3%A4%E6%AD%8C/</url>
-    <content><![CDATA[<p>吾日出而作，日入而归，凿井而饮，耕田而食，帝力于我何有哉！</p>
-]]></content>
-      <categories>
-        <category>诗歌</category>
-      </categories>
-      <tags>
-        <tag>诗歌</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>尧戒</title>
-    <url>/2024/06/30/006-%E5%B0%A7%E6%88%92/</url>
-    <content><![CDATA[<p>战战栗栗，日谨一日。日莫踬于山，而踬于垤。</p>
-]]></content>
-      <categories>
-        <category>诗歌</category>
-      </categories>
   </entry>
 </search>
