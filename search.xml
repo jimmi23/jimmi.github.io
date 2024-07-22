@@ -938,6 +938,83 @@ e.体验-渴望非凡与超越
       </categories>
   </entry>
   <entry>
+    <title>原型交互设计学习-第一章</title>
+    <url>/2024/07/12/015-%E5%8E%9F%E5%9E%8B%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E5%AD%A6%E4%B9%A0-%E7%AC%AC%E4%B8%80%E7%AB%A0/</url>
+    <content><![CDATA[<h3 id="一、常见原型分类"><a href="#一、常见原型分类" class="headerlink" title="一、常见原型分类"></a>一、常见原型分类</h3><ul>
+<li>草图原型：手绘图稿，修改方便，规划早起使用。</li>
+<li>低保真原型：简单交互，无设计图、无需配色、黑白灰即可，产品经理做产品规划及评审阶段使用。</li>
+<li>高保真原型：复杂交互，有设计图、需要有图片设计功底，做公开演讲时常用。</li>
+</ul>
+<h3 id="二、产品的分类"><a href="#二、产品的分类" class="headerlink" title="二、产品的分类"></a>二、产品的分类</h3><ul>
+<li>移动端原型：包括APP、小程序、H5等。</li>
+<li>PC端原型：包括PC客户端、Web网页等。</li>
+</ul>
+<p><strong>区别 ：</strong>不同的交互思想，不同的设计规范</p>
+<h3 id="三、原型设计规范"><a href="#三、原型设计规范" class="headerlink" title="三、原型设计规范"></a>三、原型设计规范</h3><h4 id="3-1-页面规范-移动端"><a href="#3-1-页面规范-移动端" class="headerlink" title="3.1 页面规范-移动端"></a>3.1 页面规范-移动端</h4><ul>
+<li>APP端分为IOS和安卓端。注意：多数企业中，要求制作IOS原型。</li>
+<li>移动端页面尺寸及区域：<ul>
+<li>原型尺寸：375*667px;如果页面较长，可以忽略667的要求</li>
+<li>顶部状态栏高度：20px</li>
+<li>状态栏下导航栏高度：44px</li>
+<li>二级导航栏高度：40px</li>
+<li>底部标签栏高度：49px,文字10号字，图标25*25px</li>
+<li>页面中一级按钮高度：44px</li>
+<li>原型制作从（0,0）的位置开始制作</li>
+</ul>
+</li>
+<li>页面细节处理及布局要求：<ul>
+<li>不要使用图标或者ICON</li>
+<li>不要使用图片原件（提升视觉体验）</li>
+<li>使用合理的字号、颜色，将内容进行权重的区分</li>
+<li>注意对齐（左对齐、右对齐、居中对齐）</li>
+<li>注意安全距离（不会产生误解）</li>
+<li>使用真实内容填充原型</li>
+<li>注意中划线的使用</li>
+<li>页面溢出时的处理方式</li>
+<li>原型中的字号不建议过小，最小8号字</li>
+</ul>
+</li>
+</ul>
+<h3 id="3-2-页面规范-PC端"><a href="#3-2-页面规范-PC端" class="headerlink" title="3.2 页面规范-PC端"></a>3.2 页面规范-PC端</h3><ul>
+<li>PC端原型包括PC客户端、Web网页等，多数企业中主要是是Web端产品设计</li>
+<li>主流电脑分辨率：1920*1080，版心为960~1200px(默认安全区1200px即可)</li>
+<li>Web端页面尺寸建议宽度：1200px,高度不限</li>
+<li>常用字体字号，可以使用默认字体，最终产品字体以UI决定为准<ul>
+<li>12px是网页设计的最小字体，适用于于突出性的日期，版权等注释性内容</li>
+<li>14px适用于非突出的普通文章内容</li>
+<li>16px或者18px适用于突出行的标题内容</li>
+<li>网站字体大小没有硬性规定，根据实际情况可以酌情调整，但是要使用偶数字号</li>
+</ul>
+</li>
+</ul>
+<h3 id="3-3-我制作的第一个原型："><a href="#3-3-我制作的第一个原型：" class="headerlink" title="3.3 我制作的第一个原型："></a>3.3 我制作的第一个原型：</h3><p><img src="/./images/rp001.png" alt="企业系统规划法（BSP）"></p>
+]]></content>
+      <categories>
+        <category>原型交互设计</category>
+        <category>1</category>
+      </categories>
+      <tags>
+        <tag>原型</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>希腊德尔菲神庙三条箴言</title>
+    <url>/2024/07/18/016-%E5%B8%8C%E8%85%8A%E5%BE%B7%E5%B0%94%E8%8F%B2%E7%A5%9E%E5%BA%99%E4%B8%89%E6%9D%A1%E7%AE%B4%E8%A8%80/</url>
+    <content><![CDATA[<p>在希腊德尔菲的太阳神庙，上面镌刻着三条箴言。</p>
+<ul>
+<li>认识你自己(Know thyself)</li>
+<li>凡事勿过度(Nothing in excess)</li>
+<li>承诺带来痛苦(Commitment brings misfortune)</li>
+</ul>
+]]></content>
+      <categories>
+        <category>语录</category>
+      </categories>
+      <tags>
+        <tag>语录</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>the wind in the willows-the river bank-01</title>
     <url>/2024/07/01/english/the%20wind%20in%20the%20willows-chapter01-001/</url>
     <content><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;The Mole had been working very hard all the morning,spring-cleaning his little home.First with brooms,then with dusters; then on ladders and steps and chairs,with a brush and a pair of whitewash;till he had dust in his throat and eyes,and splashes of whitewash all over his black fur,and an aching back and weary arms.Spring was moving in the air above and in the earth below and around him,penetrating even his dark and lowly little house with its spirit of divine discontent and longing.It was small wonder,then,than he suddenly flung down his brush on the floor,said ‘Bother!’ and ‘O blow’ and also ‘Hang spring-cleaning！’ and bolted out of the house without even waiting to put on his coat.Something up above was calling him imperiously,and he made for the steep little tunnel which answered in his case to the gravelled  carriage-drive owned by animals whose residences are nearer to the sun and air.So he scraped and scratched and scrabbled and scrooged and then he scrooged again and scrabbled and scratched and scraped,working busily with his little paws and muttering to himself,’Up we go! Up we go!’ till at last,pop! his snout came out into sunlight,and he found himself rolling in the warm grass of a great meadow.</p>
@@ -1069,80 +1146,42 @@ e.体验-渴望非凡与超越
       </tags>
   </entry>
   <entry>
-    <title>原型交互设计学习-第一章</title>
-    <url>/2024/07/12/015-%E5%8E%9F%E5%9E%8B%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E5%AD%A6%E4%B9%A0-%E7%AC%AC%E4%B8%80%E7%AB%A0/</url>
-    <content><![CDATA[<h3 id="一、常见原型分类"><a href="#一、常见原型分类" class="headerlink" title="一、常见原型分类"></a>一、常见原型分类</h3><ul>
-<li>草图原型：手绘图稿，修改方便，规划早起使用。</li>
-<li>低保真原型：简单交互，无设计图、无需配色、黑白灰即可，产品经理做产品规划及评审阶段使用。</li>
-<li>高保真原型：复杂交互，有设计图、需要有图片设计功底，做公开演讲时常用。</li>
-</ul>
-<h3 id="二、产品的分类"><a href="#二、产品的分类" class="headerlink" title="二、产品的分类"></a>二、产品的分类</h3><ul>
-<li>移动端原型：包括APP、小程序、H5等。</li>
-<li>PC端原型：包括PC客户端、Web网页等。</li>
-</ul>
-<p><strong>区别 ：</strong>不同的交互思想，不同的设计规范</p>
-<h3 id="三、原型设计规范"><a href="#三、原型设计规范" class="headerlink" title="三、原型设计规范"></a>三、原型设计规范</h3><h4 id="3-1-页面规范-移动端"><a href="#3-1-页面规范-移动端" class="headerlink" title="3.1 页面规范-移动端"></a>3.1 页面规范-移动端</h4><ul>
-<li>APP端分为IOS和安卓端。注意：多数企业中，要求制作IOS原型。</li>
-<li>移动端页面尺寸及区域：<ul>
-<li>原型尺寸：375*667px;如果页面较长，可以忽略667的要求</li>
-<li>顶部状态栏高度：20px</li>
-<li>状态栏下导航栏高度：44px</li>
-<li>二级导航栏高度：40px</li>
-<li>底部标签栏高度：49px,文字10号字，图标25*25px</li>
-<li>页面中一级按钮高度：44px</li>
-<li>原型制作从（0,0）的位置开始制作</li>
-</ul>
-</li>
-<li>页面细节处理及布局要求：<ul>
-<li>不要使用图标或者ICON</li>
-<li>不要使用图片原件（提升视觉体验）</li>
-<li>使用合理的字号、颜色，将内容进行权重的区分</li>
-<li>注意对齐（左对齐、右对齐、居中对齐）</li>
-<li>注意安全距离（不会产生误解）</li>
-<li>使用真实内容填充原型</li>
-<li>注意中划线的使用</li>
-<li>页面溢出时的处理方式</li>
-<li>原型中的字号不建议过小，最小8号字</li>
-</ul>
-</li>
-</ul>
-<h3 id="3-2-页面规范-PC端"><a href="#3-2-页面规范-PC端" class="headerlink" title="3.2 页面规范-PC端"></a>3.2 页面规范-PC端</h3><ul>
-<li>PC端原型包括PC客户端、Web网页等，多数企业中主要是是Web端产品设计</li>
-<li>主流电脑分辨率：1920*1080，版心为960~1200px(默认安全区1200px即可)</li>
-<li>Web端页面尺寸建议宽度：1200px,高度不限</li>
-<li>常用字体字号，可以使用默认字体，最终产品字体以UI决定为准<ul>
-<li>12px是网页设计的最小字体，适用于于突出性的日期，版权等注释性内容</li>
-<li>14px适用于非突出的普通文章内容</li>
-<li>16px或者18px适用于突出行的标题内容</li>
-<li>网站字体大小没有硬性规定，根据实际情况可以酌情调整，但是要使用偶数字号</li>
-</ul>
-</li>
-</ul>
-<h3 id="3-3-我制作的第一个原型："><a href="#3-3-我制作的第一个原型：" class="headerlink" title="3.3 我制作的第一个原型："></a>3.3 我制作的第一个原型：</h3><p><img src="/./images/rp001.png" alt="企业系统规划法（BSP）"></p>
+    <title>the wind in the willows-the river bank-05</title>
+    <url>/2024/07/22/english/the%20wind%20in%20the%20willows-chapter01-005/</url>
+    <content><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;He thought his happiness was complete when, as he meandered aimlessly along, suddenly he stood by the edge of a full-fed river    . Never in his life had he seen a river before this sleek, sinuous, full-bodied animal, chasing and chucking,gripping things with a gurgle and leaving them with a laugh, to fling itself on fresh playmates that shook themselves free,and were caught and held again.All was a-shake and a-shiver–glints and gleams and sparkles,rustle and swirl,chatter and bubble.The Mole was bewitched,entranced,fascinated.By the side of the river he trotted as one trots,when very small,by the side of  a man who holds one spell-bound by exciting stories;and when tired at last, he sat on the bank,while the river still chattered on to him,a babbling procession of the best stories in the world, send from the heart of the earth to be told at last to the insatiable sea.</p>
+<blockquote>
+<p>meandered:漫步，闲逛</p>
+<p>aimlessly：漫无目的的，漫不经心的</p>
+<p>stood by：站在旁边</p>
+<p>full-fed:满灌的</p>
+<p>sleek:时髦的、光滑的</p>
+<p>sinuous：蜿蜒的、曲折的</p>
+<p>full-bodied：圆浑的</p>
+<p>chucking：扔、抛</p>
+<p>gripping：紧握、紧抓</p>
+<p>gurgle：发汩汩声；(婴儿高兴时)发出咯咯声；发潺潺流水声</p>
+<p>fling：投掷</p>
+<p>playments：玩伴</p>
+<p>shook：摇动</p>
+<p>caught：抓住、接住</p>
+<p>bewitched：被迷住了、着魔了</p>
+<p>entranced：着迷的、狂喜的</p>
+<p>fascinated：着迷的、入迷的</p>
+<p>trotted：小跑、疾走</p>
+<p>trots：疾走</p>
+<p>chattered：喋喋不休</p>
+<p>babbling：胡说</p>
+<p>insatiable:贪得无厌的，不满足的</p>
+</blockquote>
 ]]></content>
       <categories>
-        <category>原型交互设计</category>
-        <category>1</category>
+        <category>english</category>
+        <category>the wind in the willows</category>
+        <category>chapter1</category>
+        <category>5</category>
       </categories>
       <tags>
-        <tag>原型</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>希腊德尔菲神庙三条箴言</title>
-    <url>/2024/07/18/016-%E5%B8%8C%E8%85%8A%E5%BE%B7%E5%B0%94%E8%8F%B2%E7%A5%9E%E5%BA%99%E4%B8%89%E6%9D%A1%E7%AE%B4%E8%A8%80/</url>
-    <content><![CDATA[<p>在希腊德尔菲的太阳神庙，上面镌刻着三条箴言。</p>
-<ul>
-<li>认识你自己(Know thyself)</li>
-<li>凡事勿过度(Nothing in excess)</li>
-<li>承诺带来痛苦(Commitment brings misfortune)</li>
-</ul>
-]]></content>
-      <categories>
-        <category>语录</category>
-      </categories>
-      <tags>
-        <tag>语录</tag>
+        <tag>英语，柳林风声</tag>
       </tags>
   </entry>
 </search>
