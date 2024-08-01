@@ -35,6 +35,7 @@
     <content><![CDATA[<p>滚滚长江东逝水，浪花淘尽英雄。<br>是非成败转头空。<br>青山依旧在，几度夕阳红。<br>白发渔樵江渚上，惯看秋月春风。<br>一壶浊酒喜相逢。<br>古今多少事，都付笑谈中。</p>
 ]]></content>
       <categories>
+        <category>文学</category>
         <category>诗歌</category>
         <category>国内诗歌</category>
       </categories>
@@ -78,6 +79,7 @@
     <content><![CDATA[<p>吾日出而作，日入而归，凿井而饮，耕田而食，帝力于我何有哉！</p>
 ]]></content>
       <categories>
+        <category>文学</category>
         <category>诗歌</category>
         <category>国内诗歌</category>
       </categories>
@@ -91,6 +93,7 @@
     <content><![CDATA[<p>战战栗栗，日谨一日。日莫踬于山，而踬于垤。</p>
 ]]></content>
       <categories>
+        <category>文学</category>
         <category>诗歌</category>
         <category>国内诗歌</category>
       </categories>
@@ -101,6 +104,7 @@
     <content><![CDATA[<p>昔日龌龊不足夸，今朝放荡思无涯。<br>春风得意马蹄疾，一日看尽长安花。</p>
 ]]></content>
       <categories>
+        <category>文学</category>
         <category>诗歌</category>
         <category>国内诗歌</category>
       </categories>
@@ -111,6 +115,7 @@
     <content><![CDATA[<p>假如生活欺骗了你，<br>不要悲伤，不要心急！<br>忧郁的日子里需要镇定；<br>相信吧，快乐的日子即将来临！<br>心永远向往着未来；<br>现在却常是忧郁；<br>一切都是瞬息，一切都将过去；<br>而那过去了的，会成为亲切的怀念。</p>
 ]]></content>
       <categories>
+        <category>文学</category>
         <category>诗歌</category>
         <category>国外诗歌</category>
       </categories>
@@ -802,6 +807,7 @@ e.体验-渴望非凡与超越
 </ol>
 ]]></content>
       <categories>
+        <category>文学</category>
         <category>读书分享</category>
         <category>沉思录</category>
       </categories>
@@ -933,6 +939,8 @@ e.体验-渴望非凡与超越
 </tbody></table>
 ]]></content>
       <categories>
+        <category>计算机</category>
+        <category>软考</category>
         <category>系统架构设计师</category>
         <category>企业信息化战略与实施</category>
       </categories>
@@ -990,8 +998,9 @@ e.体验-渴望非凡与超越
 <h3 id="3-3-我制作的第一个原型："><a href="#3-3-我制作的第一个原型：" class="headerlink" title="3.3 我制作的第一个原型："></a>3.3 我制作的第一个原型：</h3><p><img src="/./images/rp001.png" alt="企业系统规划法（BSP）"></p>
 ]]></content>
       <categories>
+        <category>计算机</category>
+        <category>前端</category>
         <category>原型交互设计</category>
-        <category>1</category>
       </categories>
       <tags>
         <tag>原型</tag>
@@ -1008,6 +1017,7 @@ e.体验-渴望非凡与超越
 </ul>
 ]]></content>
       <categories>
+        <category>文学</category>
         <category>语录</category>
       </categories>
       <tags>
@@ -1045,10 +1055,9 @@ e.体验-渴望非凡与超越
 </blockquote>
 ]]></content>
       <categories>
-        <category>english</category>
+        <category>英语</category>
         <category>the wind in the willows</category>
         <category>chapter1</category>
-        <category>1</category>
       </categories>
       <tags>
         <tag>英语，柳林风声</tag>
@@ -1076,10 +1085,9 @@ e.体验-渴望非凡与超越
 </blockquote>
 ]]></content>
       <categories>
-        <category>english</category>
+        <category>英语</category>
         <category>the wind in the willows</category>
         <category>chapter1</category>
-        <category>2</category>
       </categories>
       <tags>
         <tag>英语，柳林风声</tag>
@@ -1106,10 +1114,9 @@ e.体验-渴望非凡与超越
 </blockquote>
 ]]></content>
       <categories>
-        <category>english</category>
+        <category>英语</category>
         <category>the wind in the willows</category>
         <category>chapter1</category>
-        <category>3</category>
       </categories>
       <tags>
         <tag>英语，柳林风声</tag>
@@ -1136,10 +1143,9 @@ e.体验-渴望非凡与超越
 </blockquote>
 ]]></content>
       <categories>
-        <category>english</category>
+        <category>英语</category>
         <category>the wind in the willows</category>
         <category>chapter1</category>
-        <category>4</category>
       </categories>
       <tags>
         <tag>英语，柳林风声</tag>
@@ -1175,10 +1181,9 @@ e.体验-渴望非凡与超越
 </blockquote>
 ]]></content>
       <categories>
-        <category>english</category>
+        <category>英语</category>
         <category>the wind in the willows</category>
         <category>chapter1</category>
-        <category>5</category>
       </categories>
       <tags>
         <tag>英语，柳林风声</tag>
@@ -1195,6 +1200,7 @@ e.体验-渴望非凡与超越
 </ol>
 ]]></content>
       <categories>
+        <category>文学</category>
         <category>语录</category>
       </categories>
       <tags>
@@ -1215,8 +1221,25 @@ e.体验-渴望非凡与超越
 </blockquote>
 ]]></content>
       <categories>
+        <category>文学</category>
         <category>读书分享</category>
         <category>杀死一只知更鸟</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>晓出净慈寺送林子方</title>
+    <url>/2024/08/01/019-%E6%99%93%E5%87%BA%E5%87%80%E6%85%88%E5%AF%BA%E9%80%81%E6%9E%97%E5%AD%90%E6%96%B9/</url>
+    <content><![CDATA[<p><strong>晓出净慈寺送林子方</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;宋·杨万里<br>毕竟西湖六月中，<br>风光不与四时同。<br>接天莲叶无穷碧，<br>映日荷花别样红。</p>
+<span id="more"></span>
+
+<blockquote>
+<p>背景知识：<br>&nbsp;&nbsp;&nbsp;&nbsp;林子方举进士后，曾担任直阁秘书（负责给皇帝草拟诏书的文官，可以说皇帝的秘书）。时任秘书少监、太子侍读的杨万里是林子方的上级兼好友，两人常聚在一起畅谈强国主张、抗金建议，也曾一起切磋诗词文艺，两人志同道合、互视对方为知己。<br>&nbsp;&nbsp;&nbsp;&nbsp;后来，林子方被调离皇帝身边，赴福州任职，职位知福州。林子方甚是高兴，自以为仕途升迁。杨万里则不这么想，送林子方赴福州时，写下此诗，劝告林子方不要去福州。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>文学</category>
+        <category>诗歌</category>
+        <category>国内诗歌</category>
       </categories>
   </entry>
 </search>
