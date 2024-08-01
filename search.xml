@@ -1242,4 +1242,152 @@ e.体验-渴望非凡与超越
         <category>国内诗歌</category>
       </categories>
   </entry>
+  <entry>
+    <title>Linux基础学习-01-常用命令</title>
+    <url>/2024/08/01/Linux%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0-01-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
+    <content><![CDATA[<ol>
+<li><p>Linux命令行组成：当前用户+@+哪台主机+当前目录<span id="more"></span>。root@iZ2vc2rdyl4yp5tml2o8a8Z ~。#号：root用户提示符</p>
+</li>
+<li><p>Linux命令行格式：命令+空格+选项+空格+参数。rm -f &#x2F;temp&#x2F;hello.txt</p>
+</li>
+<li><p>Linux与Windows目录结构对比</p>
+<table>
+<thead>
+<tr>
+<th>Windows</th>
+<th>Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>C盘、D盘、E盘等</td>
+<td>一起从根目录开始（&#x2F;），倒挂树形结构</td>
+</tr>
+</tbody></table>
+</li>
+<li><p><strong>Linux核心命令-关机、重启</strong>：</p>
+<table>
+<thead>
+<tr>
+<th align="center">序号</th>
+<th align="center">命令</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">1</td>
+<td align="center">shutdown</td>
+<td>关机：-h 时间<br><br/>shutdown -h now<br/>shutdown -h 10 #10分钟<br/>-c 取消<br/>shutdown -c #取消关机<br/>重启：-r 时间<br/><br/></td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">halt</td>
+<td>关机，还需要手动关闭电源</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">poweroff</td>
+<td>关机</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">reboot</td>
+<td>重启</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">init 0</td>
+<td>关机（C6）</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">init 6</td>
+<td>重启(C6)</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">systemctl poweroff</td>
+<td>关机</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">systemctl reboot</td>
+<td>重启</td>
+</tr>
+</tbody></table>
+</li>
+<li><p><strong>Linux核心命令-帮助</strong></p>
+<table>
+<thead>
+<tr>
+<th align="center">序号</th>
+<th align="center">命令</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">1</td>
+<td align="center">man</td>
+<td>manual简称，手册、说明书</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">命令 –help</td>
+<td>简单介绍</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">info 命令</td>
+<td>超级详细</td>
+</tr>
+</tbody></table>
+</li>
+<li><p><strong>Linux核心命令-快捷键</strong></p>
+<table>
+<thead>
+<tr>
+<th align="center">序号</th>
+<th align="center">快捷键</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">1</td>
+<td align="center">ctrl+l</td>
+<td>清屏</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">ctrl+a</td>
+<td>光标移到行首</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">ctrl+e</td>
+<td>光标移到行尾</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">ctrl+u</td>
+<td>光标到行首位置内容剪切（删除）</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">ctrl+k</td>
+<td>光标到行首尾置内容剪切（删除）</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">ctrl+y</td>
+<td>粘贴</td>
+</tr>
+</tbody></table>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>计算机</category>
+        <category>Linux</category>
+        <category>常用命令</category>
+      </categories>
+  </entry>
 </search>
