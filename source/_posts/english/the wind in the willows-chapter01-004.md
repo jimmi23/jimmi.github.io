@@ -3,7 +3,7 @@ title: the wind in the willows-the river bank-04
 date: 2024-07-12 15:51:23
 top:
 categories:
-    - [english, the wind in the willows,chapter1, 004]
+    - [英语, the wind in the willows,chapter1]
 tags: [英语，柳林风声]
 description:  It all seemed too good to be true.
 ---

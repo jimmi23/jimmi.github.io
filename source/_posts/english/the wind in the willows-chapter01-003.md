@@ -3,7 +3,7 @@ title: the wind in the willows-the river bank-03
 date: 2024-07-05 16:51:23
 top:
 categories:
-    - [english, the wind in the willows,chapter1, 003]
+    - [英语, the wind in the willows,chapter1]
 tags: [英语，柳林风声]
 description:  ‘Hold up!’ said  an elderly rabbit  at the gap.
 ---

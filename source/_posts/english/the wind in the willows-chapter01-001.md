@@ -3,7 +3,7 @@ title: the wind in the willows-the river bank-01
 date: 2024-07-01 21:16:59
 top:
 categories:
-    - [english, the wind in the willows,chapter1, 001]
+    - [英语, the wind in the willows,chapter1]
 tags: [英语，柳林风声]
 description: The Mole had been working very hard all the morning,spring-cleaning his little home.
 ---
