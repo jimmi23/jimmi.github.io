@@ -20,20 +20,19 @@
     var CONFIG = {"hostname":"jimmi23.github.io","root":"/","scheme":"Mist","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"gitalk","storage":true,"lazyload":false,"nav":null,"activeClass":"gitalk"},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta name="description" content="假如生活欺骗了你，不要悲伤，不要心急！忧郁的日子里需要镇定；相信吧，快乐的日子即将来临！心永远向往着未来；现在却常是忧郁；一切都是瞬息，一切都将过去；而那过去了的，会成为亲切的怀念。">
+  <meta name="description" content="Linux命令行组成：当前用户+@+哪台主机+当前目录">
 <meta property="og:type" content="article">
-<meta property="og:title" content="假如生活欺骗了你">
-<meta property="og:url" content="https://jimmi23.github.io/2024/06/30/008-%E5%81%87%E5%A6%82%E7%94%9F%E6%B4%BB%E6%AC%BA%E9%AA%97%E4%BA%86%E4%BD%A0/index.html">
+<meta property="og:title" content="Linux基础学习-01-常用命令">
+<meta property="og:url" content="https://jimmi23.github.io/2024/08/01/020-Linux%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0-01-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/index.html">
 <meta property="og:site_name" content="几米的博客">
-<meta property="og:description" content="假如生活欺骗了你，不要悲伤，不要心急！忧郁的日子里需要镇定；相信吧，快乐的日子即将来临！心永远向往着未来；现在却常是忧郁；一切都是瞬息，一切都将过去；而那过去了的，会成为亲切的怀念。">
+<meta property="og:description" content="Linux命令行组成：当前用户+@+哪台主机+当前目录">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2024-06-30T10:28:32.000Z">
-<meta property="article:modified_time" content="2024-08-01T03:42:52.358Z">
+<meta property="article:published_time" content="2024-08-01T07:22:39.000Z">
+<meta property="article:modified_time" content="2024-08-01T07:34:15.238Z">
 <meta property="article:author" content="Jimi">
-<meta property="article:tag" content="诗歌">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="https://jimmi23.github.io/2024/06/30/008-%E5%81%87%E5%A6%82%E7%94%9F%E6%B4%BB%E6%AC%BA%E9%AA%97%E4%BA%86%E4%BD%A0/">
+<link rel="canonical" href="https://jimmi23.github.io/2024/08/01/020-Linux%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0-01-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/">
 
 
 <script id="page-configurations">
@@ -46,7 +45,7 @@
   };
 </script>
 
-  <title>假如生活欺骗了你 | 几米的博客</title>
+  <title>Linux基础学习-01-常用命令 | 几米的博客</title>
   
 
 
@@ -194,7 +193,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://jimmi23.github.io/2024/06/30/008-%E5%81%87%E5%A6%82%E7%94%9F%E6%B4%BB%E6%AC%BA%E9%AA%97%E4%BA%86%E4%BD%A0/">
+    <link itemprop="mainEntityOfPage" href="https://jimmi23.github.io/2024/08/01/020-Linux%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0-01-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/messi.png">
@@ -207,7 +206,7 @@
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          假如生活欺骗了你
+          Linux基础学习-01-常用命令
         </h1>
 
         <div class="post-meta">
@@ -216,31 +215,25 @@
                 <i class="far fa-calendar"></i>
               </span>
               <span class="post-meta-item-text">发表于</span>
+              
 
-              <time title="创建时间：2024-06-30 18:28:32" itemprop="dateCreated datePublished" datetime="2024-06-30T18:28:32+08:00">2024-06-30</time>
+              <time title="创建时间：2024-08-01 15:22:39 / 修改时间：15:34:15" itemprop="dateCreated datePublished" datetime="2024-08-01T15:22:39+08:00">2024-08-01</time>
             </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="far fa-calendar-check"></i>
-                </span>
-                <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2024-08-01 11:42:52" itemprop="dateModified" datetime="2024-08-01T11:42:52+08:00">2024-08-01</time>
-              </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
                 <i class="far fa-folder"></i>
               </span>
               <span class="post-meta-item-text">分类于</span>
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/%E6%96%87%E5%AD%A6/" itemprop="url" rel="index"><span itemprop="name">文学</span></a>
+                  <a href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/" itemprop="url" rel="index"><span itemprop="name">计算机</span></a>
                 </span>
                   ，
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/%E6%96%87%E5%AD%A6/%E8%AF%97%E6%AD%8C/" itemprop="url" rel="index"><span itemprop="name">诗歌</span></a>
+                  <a href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/Linux/" itemprop="url" rel="index"><span itemprop="name">Linux</span></a>
                 </span>
                   ，
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/%E6%96%87%E5%AD%A6/%E8%AF%97%E6%AD%8C/%E5%9B%BD%E5%A4%96%E8%AF%97%E6%AD%8C/" itemprop="url" rel="index"><span itemprop="name">国外诗歌</span></a>
+                  <a href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/Linux/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/" itemprop="url" rel="index"><span itemprop="name">常用命令</span></a>
                 </span>
             </span>
 
@@ -262,7 +255,144 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <p>假如生活欺骗了你，<br>不要悲伤，不要心急！<br>忧郁的日子里需要镇定；<br>相信吧，快乐的日子即将来临！<br>心永远向往着未来；<br>现在却常是忧郁；<br>一切都是瞬息，一切都将过去；<br>而那过去了的，会成为亲切的怀念。</p>
+        <ol>
+<li><p>Linux命令行组成：当前用户+@+哪台主机+当前目录<span id="more"></span>。root@iZ2vc2rdyl4yp5tml2o8a8Z ~。#号：root用户提示符</p>
+</li>
+<li><p>Linux命令行格式：命令+空格+选项+空格+参数。rm -f &#x2F;temp&#x2F;hello.txt</p>
+</li>
+<li><p>Linux与Windows目录结构对比</p>
+<table>
+<thead>
+<tr>
+<th>Windows</th>
+<th>Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>C盘、D盘、E盘等</td>
+<td>一起从根目录开始（&#x2F;），倒挂树形结构</td>
+</tr>
+</tbody></table>
+</li>
+<li><p><strong>Linux核心命令-关机、重启</strong>：</p>
+<table>
+<thead>
+<tr>
+<th align="center">序号</th>
+<th align="center">命令</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">1</td>
+<td align="center">shutdown</td>
+<td>关机：-h 时间<br><br/>shutdown -h now<br/>shutdown -h 10 #10分钟<br/>-c 取消<br/>shutdown -c #取消关机<br/>重启：-r 时间<br/><br/></td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">halt</td>
+<td>关机，还需要手动关闭电源</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">poweroff</td>
+<td>关机</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">reboot</td>
+<td>重启</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">init 0</td>
+<td>关机（C6）</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">init 6</td>
+<td>重启(C6)</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">systemctl poweroff</td>
+<td>关机</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">systemctl reboot</td>
+<td>重启</td>
+</tr>
+</tbody></table>
+</li>
+<li><p><strong>Linux核心命令-帮助</strong></p>
+<table>
+<thead>
+<tr>
+<th align="center">序号</th>
+<th align="center">命令</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">1</td>
+<td align="center">man</td>
+<td>manual简称，手册、说明书</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">命令 –help</td>
+<td>简单介绍</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">info 命令</td>
+<td>超级详细</td>
+</tr>
+</tbody></table>
+</li>
+<li><p><strong>Linux核心命令-快捷键</strong></p>
+<table>
+<thead>
+<tr>
+<th align="center">序号</th>
+<th align="center">快捷键</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">1</td>
+<td align="center">ctrl+l</td>
+<td>清屏</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">ctrl+a</td>
+<td>光标移到行首</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">ctrl+e</td>
+<td>光标移到行尾</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">ctrl+u</td>
+<td>光标到行首位置内容剪切（删除）</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">ctrl+k</td>
+<td>光标到行首尾置内容剪切（删除）</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">ctrl+y</td>
+<td>粘贴</td>
+</tr>
+</tbody></table>
+</li>
+</ol>
 
     </div>
 
@@ -271,9 +401,6 @@
     
 
       <footer class="post-footer">
-          <div class="post-tags">
-              <a href="/tags/%E8%AF%97%E6%AD%8C/" rel="tag"># 诗歌</a>
-          </div>
 
         
 
@@ -281,12 +408,12 @@
         
     <div class="post-nav">
       <div class="post-nav-item">
-    <a href="/2024/06/30/007-%E7%99%BB%E7%A7%91%E5%90%8E/" rel="prev" title="登科后">
-      <i class="fa fa-chevron-left"></i> 登科后
+    <a href="/2024/08/01/019-%E6%99%93%E5%87%BA%E5%87%80%E6%85%88%E5%AF%BA%E9%80%81%E6%9E%97%E5%AD%90%E6%96%B9/" rel="prev" title="晓出净慈寺送林子方">
+      <i class="fa fa-chevron-left"></i> 晓出净慈寺送林子方
     </a></div>
       <div class="post-nav-item">
-    <a href="/2024/06/30/009-Mac%20Idea%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/" rel="next" title="Mac Idea常用快捷键">
-      Mac Idea常用快捷键 <i class="fa fa-chevron-right"></i>
+    <a href="/2024/08/02/021-%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%87%BA%E5%90%8D%E7%9A%84%E5%87%A0%E7%A7%8D%E9%A2%9C%E8%89%B2/" rel="next" title="世界上最出名的几种颜色">
+      世界上最出名的几种颜色 <i class="fa fa-chevron-right"></i>
     </a></div>
     </div>
       </footer>
@@ -495,7 +622,7 @@ NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
       repo        : 'jimmi23.github.io',
       owner       : 'jimmi23',
       admin       : ['jimmi23'],
-      id          : '2176b077261a2b397f076f32f15f4334',
+      id          : '688814647b2c6ab7d54ad08955ac0592',
         language: 'zn-CH',
       distractionFreeMode: true
     });

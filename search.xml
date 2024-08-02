@@ -1243,8 +1243,14 @@ e.体验-渴望非凡与超越
       </categories>
   </entry>
   <entry>
+    <title>世界上最出名的几种颜色</title>
+    <url>/2024/08/02/021-%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%87%BA%E5%90%8D%E7%9A%84%E5%87%A0%E7%A7%8D%E9%A2%9C%E8%89%B2/</url>
+    <content><![CDATA[<p><img src="/../images/021.png" alt="img.png"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Linux基础学习-01-常用命令</title>
-    <url>/2024/08/01/Linux%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0-01-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
+    <url>/2024/08/01/020-Linux%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0-01-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
     <content><![CDATA[<ol>
 <li><p>Linux命令行组成：当前用户+@+哪台主机+当前目录<span id="more"></span>。root@iZ2vc2rdyl4yp5tml2o8a8Z ~。#号：root用户提示符</p>
 </li>
